@@ -10,8 +10,8 @@ Do contact me with suggestions and criticism, both of which are welcome.
 ### A few projects
 
 1. [Introduction to Statistical Learning](https://aninthan-ramaswamy.github.io/ISLR-Training/)
-2. [Covid-19 Time Series Analysis] (https://aninthan-ramaswamy.github.io/Covid-19-Analysis/)
-3. [New York - Housing Analysis] (https://aninthan-ramaswamy.github.io/New-York-Housing-Analysis/)
-4. [Tableau visualization projects] (https://public.tableau.com/profile/aninthan.ramaswamy)
+2. [Covid-19 Time Series Analysis](https://aninthan-ramaswamy.github.io/Covid-19-Analysis/)
+3. [New York - Housing Analysis](https://aninthan-ramaswamy.github.io/New-York-Housing-Analysis/)
+4. [Tableau visualization projects](https://public.tableau.com/profile/aninthan.ramaswamy)
 
 I also try and maintain some practice codes [here](https://github.com/aninthan-ramaswamy/Basic-Coding).
