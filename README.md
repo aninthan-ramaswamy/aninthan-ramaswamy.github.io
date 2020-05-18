@@ -7,12 +7,6 @@ The main purpose of creating this site is to host a portfolio of what I have lea
 
 ___
 
-Suggestions and criticism, both welcome! Do contact me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aninthan-r/)
-
-My complete github profile can be found at [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/aninthan-ramaswamy)
-
-___
-
 ### Projects
 
 1. [Introduction to Statistical Learning](https://aninthan-ramaswamy.github.io/ISLR-Training/)
@@ -21,9 +15,15 @@ ___
 4. [Tableau visualization projects](https://public.tableau.com/profile/aninthan.ramaswamy)
 
 I also try and maintain some practice codes [here](https://github.com/aninthan-ramaswamy/Basic-Coding).
-
 ___
 
 So on that note, let me reaffirm something. I am a data science professional - who has just stepped into this world, who is stumbling through all things new, and who is trying to learn what he does/doesn't know.
 
 What am I doing now? I am a current graduate student, pursuing my Master of Science degree with a Business Analytics major from the University of Cincinnati, Lindner College of Business. I reside in Cincinnati, Ohio and I am originally from Chennai, India. 
+___
+
+Suggestions and criticism, both welcome! Do contact me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aninthan-r/)
+
+My complete github profile can be found at [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/aninthan-ramaswamy)
+
+___
