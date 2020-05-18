@@ -1,5 +1,5 @@
 
-Thank you for visiting the page. It maybe fruitful to delve into some quick introduction.
+Thank you for visiting the page. It may be fruitful to delve into some quick introduction.
 
 I am Aninthan and I consider myself to be a data-sciences professional. In my professional career, I have helped businesses make use of the data they have generated/acquired in trying to figure out the solution(s) for pressing business problems. This usually involves working on projects that necessitates statistical analysis and predictive modeling, along with designing and translating the solutions to business users.
 
