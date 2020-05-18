@@ -7,6 +7,8 @@ The main purpose of creating this site is to host a portfolio of what I have lea
 
 Suggestions and criticism, both welcome! Do contact me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/aninthan-r/)
 
+My complete github profile can be found at [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/aninthan-ramaswamy)
+
 ### Projects
 
 1. [Introduction to Statistical Learning](https://aninthan-ramaswamy.github.io/ISLR-Training/)
