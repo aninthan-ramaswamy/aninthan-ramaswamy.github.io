@@ -1,11 +1,15 @@
 
 Thanks for visiting the page. It maybe fruitful to delve into some quick introduction.
 
-I am Aninthan and I consider myself to be a data-sciences professional. In my professional career, as of date, I have helped businesses make use of the data they have generated/acquired in trying to figure out the solution(s) for pressing business problems. This usually involves working on projects that necessitates statistical analysis and predictive modeling, along with designing and translating the solutions to business users. I am a current graduate student, pursuing my Master of Science degree with a Business Analytics major from the University of Cincinnati, Lindner College of Business. I reside in Cincinnati, Ohio and I am originally from Chennai, India. 
+I am Aninthan and I consider myself to be a data-sciences professional. In my professional career, I have helped businesses make use of the data they have generated/acquired in trying to figure out the solution(s) for pressing business problems. This usually involves working on projects that necessitates statistical analysis and predictive modeling, along with designing and translating the solutions to business users.
 
-The main purpose of creating this site is to host a portfolio of what I have learnt, and consistently update them as and when I discover new things. Disclaimer, I am starting out, and I plan to update this page with what I feel are relevant information as and when time passes. So on that note, let me reaffirm something. I am a data science professional - who has just stepped into this world, who is stumbling through all things new, and who is trying to learn what he does/doesn't know.
+I am a current graduate student, pursuing my Master of Science degree with a Business Analytics major from the University of Cincinnati, Lindner College of Business. I reside in Cincinnati, Ohio and I am originally from Chennai, India. 
 
-Do contact me with suggestions and criticism, both of which are welcome.
+The main purpose of creating this site is to host a portfolio of what I have learnt, and consistently update them as and when I discover new things. Disclaimer, I am starting out, and I plan to update this page with what I feel are relevant information as and when time passes. 
+
+So on that note, let me reaffirm something. I am a data science professional - who has just stepped into this world, who is stumbling through all things new, and who is trying to learn what he does/doesn't know.
+
+Suggestions and criticism, both welcome! Do contact me at [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/aninthan-r/)
 
 ### A few projects
 
