@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 
 title: Github Repos
-description: This is where I post what I learn
+description: | 
+  This is where I post what I learn
+  "..everyone else bring data."
