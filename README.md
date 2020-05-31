@@ -1,4 +1,6 @@
 
+<img align="center" src="https://imgs.xkcd.com/comics/machine_learning.png" alt="Hi">
+
 [![Hi](https://imgs.xkcd.com/comics/machine_learning.png)]
 
 Thank you for visiting the page. It may be fruitful to delve into some quick introduction.
