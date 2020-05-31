@@ -1,5 +1,6 @@
-
-<img align="center" src="https://imgs.xkcd.com/comics/machine_learning.png" alt="Hi">
+<p align="center">
+  <img src="https://imgs.xkcd.com/comics/machine_learning.png" alt="Hi"/>
+</p>
 
 [![Hi](https://imgs.xkcd.com/comics/machine_learning.png)]
 
